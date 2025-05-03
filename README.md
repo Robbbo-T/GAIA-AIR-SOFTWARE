@@ -26,17 +26,7 @@ The GAIA AIR initiative is a comprehensive effort to create an ecosystem of inte
 - **Quantum Simulations**: Tools for simulating various aspects of aircraft operation using quantum computing.
 - **Technical Documentation**: Tools for creating and maintaining technical documentation in compliance with COAFI and AMEDEO standards.
 
-## Potential for AI Integration
-
-There are several potential areas for AI integration in the technical documentation workflow, including:
-
-- **Automated Impact Analysis**: Using AI to analyze design changes and automatically identify affected manual sections.
-- **AI-Assisted Authoring**: Leveraging AI to assist in the creation of technical content, ensuring consistency and adherence to standards.
-- **Semantic Validation**: Implementing AI for deep semantic validation of instructions, ensuring logical coherence and safety compliance.
-- **Predictive Maintenance Insights**: Utilizing AI to analyze operational data and suggest improvements to troubleshooting procedures.
-- **Automated Illustration Generation**: Applying AI to generate and label technical illustrations from 3D models.
-- **Conversational Interfaces**: Developing AI-driven conversational interfaces to assist users in querying and navigating technical manuals.
-
 ## Relevant Repositories and Resources
 
 - [GAIA-AIR-SOFTWARE](https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE): The main repository for the GAIA AIR initiative.
+
