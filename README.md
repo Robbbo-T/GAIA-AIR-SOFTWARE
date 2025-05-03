@@ -24,6 +24,20 @@ The GAIA AIR initiative is a comprehensive effort to create an ecosystem of inte
 - **Quantum Simulations**: Tools for simulating various aspects of aircraft operation using quantum computing.
 - **Technical Documentation**: Tools for creating and maintaining technical documentation in compliance with COAFI and AMEDEO standards.
 
+## Airbus Tools Integration
+
+The GAIA AIR initiative integrates several specific Airbus tools to enhance its capabilities. These tools include:
+
+- **GIPSY**: A tool for precise positioning and navigation.
+- **GIDOCA**: A tool for managing and documenting configuration data.
+- **SAP**: A tool for enterprise resource planning and management.
+- **ZAMIZ**: A tool for managing and analyzing maintenance data.
+- **DACAS**: A tool for managing and analyzing flight data.
+- **PDMLink/PASS V2**: A tool for product lifecycle management and collaboration.
+- **ARINA**: A tool for managing and analyzing aircraft performance data.
+
+These tools are integrated into the GAIA AIR software to provide comprehensive solutions for aircraft design, operation, and maintenance. The integration of these tools ensures that the GAIA AIR initiative leverages the latest technologies and best practices in the aerospace industry.
+
 ## Relevant Repositories and Resources
 
 - [GAIA-AIR-SOFTWARE](https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE): The main repository for the GAIA AIR initiative.

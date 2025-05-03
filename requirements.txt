@@ -1,0 +1,27 @@
+# GAIA AIR SOFTWARE Dependencies
+
+# General dependencies
+numpy==1.21.0
+pandas==1.3.0
+scipy==1.7.0
+
+# Dependencies for GIPSY
+gipsy==1.0.0
+
+# Dependencies for GIDOCA
+gidoca==2.0.0
+
+# Dependencies for SAP
+sap==3.0.0
+
+# Dependencies for ZAMIZ
+zamiz==4.0.0
+
+# Dependencies for DACAS
+dacas==5.0.0
+
+# Dependencies for PDMLink/PASS V2
+pdmlink-pass-v2==6.0.0
+
+# Dependencies for ARINA
+arina==7.0.0
