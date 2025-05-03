@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build": "echo \"No build steps required for this project.\"",
+    "test": "echo \"No specific testing instructions provided.\""
+  }
+}
