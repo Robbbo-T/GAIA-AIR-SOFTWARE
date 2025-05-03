@@ -64,6 +64,52 @@ We welcome pull requests for bug fixes, new features, and improvements. To submi
 
 We appreciate your patience while we review your pull request. Our team will review the changes and provide feedback. If any changes are requested, please address them promptly. Once your pull request is approved, it will be merged into the main branch.
 
+## Contributing to the Integration of Specific Airbus Tools
+
+We welcome contributions to the integration of specific Airbus tools like GIPSY, GIDOCA, SAP, ZAMIZ, DACAS, PDMLink/PASS V2, and ARINA. To contribute to the integration of these tools, follow these steps:
+
+1. **Understand the Requirements**
+
+   Review the official documentation for the specific Airbus tool you want to integrate to understand its requirements and dependencies.
+
+2. **Clone the GAIA AIR Repository**
+
+   Clone the GAIA AIR software repository to your local machine:
+
+   ```bash
+   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   ```
+
+3. **Install Dependencies**
+
+   Follow the instructions in the `docs/installation.md` file to install the required dependencies for GAIA AIR software.
+
+4. **Create a New Branch**
+
+   Create a new branch in your local repository to work on the integration:
+
+   ```bash
+   git checkout -b integrate-<tool-name>
+   ```
+
+   Replace `<tool-name>` with the name of the Airbus tool you want to integrate (e.g., gipsy, gidoca, sap).
+
+5. **Modify the Codebase**
+
+   Make the necessary changes to the GAIA AIR software codebase to integrate the Airbus tool. This may involve updating configuration files, adding new modules, or modifying existing code.
+
+6. **Test the Integration**
+
+   Thoroughly test the integration to ensure that the Airbus tool works seamlessly with the GAIA AIR software.
+
+7. **Document the Integration**
+
+   Update the relevant documentation, such as the `docs/usage.md` and `docs/installation.md` files, to include instructions on how to use the Airbus tool with the GAIA AIR software.
+
+8. **Submit a Pull Request**
+
+   Once you have completed the integration and testing, submit a pull request to the GAIA AIR software repository. Provide a clear and descriptive title and description for your pull request, explaining the changes you have made and why they are necessary.
+
 ## Additional Notes
 
 - Please ensure that your code is well-documented and includes appropriate tests.

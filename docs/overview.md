@@ -21,3 +21,17 @@ The GAIA AIR initiative is part of the GAIA DS (Sustainable Development) divisio
 - **AI-Assisted Design**: Modules for designing aircraft with the help of artificial intelligence.
 - **Quantum Simulations**: Tools for simulating various aspects of aircraft operation using quantum computing.
 - **Technical Documentation**: Tools for creating and maintaining technical documentation in compliance with COAFI and AMEDEO standards.
+
+## Airbus Tools Integration
+
+The GAIA AIR initiative integrates several specific Airbus tools to enhance its capabilities. These tools include:
+
+- **GIPSY**: A tool for precise positioning and navigation.
+- **GIDOCA**: A tool for managing and documenting configuration data.
+- **SAP**: A tool for enterprise resource planning and management.
+- **ZAMIZ**: A tool for managing and analyzing maintenance data.
+- **DACAS**: A tool for managing and analyzing flight data.
+- **PDMLink/PASS V2**: A tool for product lifecycle management and collaboration.
+- **ARINA**: A tool for managing and analyzing aircraft performance data.
+
+These tools are integrated into the GAIA AIR software to provide comprehensive solutions for aircraft design, operation, and maintenance. The integration of these tools ensures that the GAIA AIR initiative leverages the latest technologies and best practices in the aerospace industry.
