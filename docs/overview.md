@@ -43,3 +43,24 @@ The GAIA AIR initiative integrates several specific Airbus tools to enhance its 
 - **airnavX**: Multi-channel publication platform. AI: Usage analytics dashboard to identify confusing sections.
 
 These tools are integrated into the GAIA AIR software to provide comprehensive solutions for aircraft design, operation, and maintenance. The integration of these tools ensures that the GAIA AIR initiative leverages the latest technologies and best practices in the aerospace industry.
+
+## Detailed Descriptions & AI Proposals
+Each tool below now includes its workflow role and AI integration suggestions:
+
+| Tool              | Workflow Role                             | AI Integration                                         |
+| ----------------- | ----------------------------------------- | ------------------------------------------------------ |
+| GIPSY             | Change request intake & impact tracking   | NLP-driven module mapping & effort estimation          |
+| GIDOCA            | XML/SGML content assembly                 | LLM-assisted data module drafting & terminology checks |
+| SAP               | BOM and configuration extraction          | Automated BOM diff & discrepancy alerts via RPA        |
+| ZAMIZ             | Maintenance history & analytics           | ML-based failure pattern detection                     |
+| DACAS             | Operational diagnostics feed              | Optimize troubleshooting via classifier                |
+| PDMLink / PASS V2 | CAD & PLM repository                      | API for auto-view extraction & exploded diagramming    |
+| ARINA (airnavX)   | End-user publication platform             | Conversational chatbot for manual queries              |
+| PTC Arbortext     | S1000D/iSpec 2200 XML authoring           | LLM draft module creation & BREX suggestion            |
+| Adobe FrameMaker  | Legacy WYSIWYG authoring                  | STE style enforcement & change-bar automation          |
+| PTC IsoDraw       | 2D/3D technical illustration              | Vision AI for auto exploded views & callouts           |
+| Creo Illustrate   | CAD-to-illustration pipeline              | Auto camera angle & component labeling suggestions     |
+| 3DVIA Composer    | Interactive 3D animations                 | AI-scripted animations from text procedures            |
+| Vuforia/Unity     | AR application development                | Real-time object recognition & voice instructions      |
+| CSDB              | Central S1000D data repository            | Semantic search & content reuse via embeddings         |
+| airnavX           | Digital publication & distribution portal | Analytics dashboard to highlight confusing sections    |
