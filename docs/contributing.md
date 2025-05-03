@@ -110,6 +110,20 @@ We welcome contributions to the integration of specific Airbus tools like GIPSY,
 
    Once you have completed the integration and testing, submit a pull request to the GAIA AIR software repository. Provide a clear and descriptive title and description for your pull request, explaining the changes you have made and why they are necessary.
 
+## Tool Insights & AI Integration
+
+When contributing, refer to the detailed descriptions:
+- Understand each Airbus tool's current role (README.md)
+- Follow AI integration patterns for new features
+- Add tests for AI pipelines, e.g., `npm test gipsy-ai-mapping`
+- Document new AI commands in usage.md
+
+## AI-driven enhancements:
+
+- Propose new LLM prompts for module drafting
+- Share RPA scripts for SAP BOM diffs
+- Validate vision AI outputs for IsoDraw & Creo Illustrate
+
 ## Additional Notes
 
 - Please ensure that your code is well-documented and includes appropriate tests.

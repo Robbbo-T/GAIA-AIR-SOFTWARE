@@ -26,12 +26,20 @@ The GAIA AIR initiative is part of the GAIA DS (Sustainable Development) divisio
 
 The GAIA AIR initiative integrates several specific Airbus tools to enhance its capabilities. These tools include:
 
-- **GIPSY**: A tool for precise positioning and navigation.
-- **GIDOCA**: A tool for managing and documenting configuration data.
-- **SAP**: A tool for enterprise resource planning and management.
-- **ZAMIZ**: A tool for managing and analyzing maintenance data.
-- **DACAS**: A tool for managing and analyzing flight data.
-- **PDMLink/PASS V2**: A tool for product lifecycle management and collaboration.
-- **ARINA**: A tool for managing and analyzing aircraft performance data.
+- **GIPSY**: Manages change requests and configuration data. AI: NLP assistant for auto-mapping ECOs/SBs to ATA chapters and impact analysis suggestions.
+- **GIDOCA**: XML/SGML content assembly UI. AI: Autocomplete S1000D modules and enforce ASD-STE100 terminology via LLM plugin.
+- **SAP**: ERP for BOM & configuration. AI: RPA pipeline for BOM diff generation and discrepancy alerts.
+- **ZAMIZ**: Maintenance history analytics. AI: ML models to flag high-failure-rate systems for proactive manual updates.
+- **DACAS**: Operational diagnostics data. AI: Classifier to optimize troubleshooting flows based on real cases.
+- **PDMLink/PASS V2**: PLM repository for CAD & BOM. AI: API for auto-extracting views & generating exploded diagrams.
+- **ARINA (airnavX)**: Customer portal for final manuals. AI: Conversational chatbot for natural-language queries of AMM/TSM.
+- **PTC Arbortext**: XML authoring S1000D/iSpec2200. AI: LLM draft generation of data modules and BREX rule suggestions.
+- **Adobe FrameMaker**: WYSIWYG authoring. AI: Macro that enforces STE style and auto-generates change bars.
+- **PTC IsoDraw**: 2D/3D vector graphics from CAD. AI: Vision engine for auto-exploded views and callouts.
+- **Creo Illustrate**: CAD-to-illustration. AI: Auto-select camera angles and component labeling.
+- **3DVIA Composer**: Interactive animations. AI: Scripted animation generation from textual procedures.
+- **Vuforia/Unity**: AR development. AI: Real-time object recognition and voice-guided instructions overlay.
+- **CSDB**: Centralized S1000D data modules. AI: Semantic search via embeddings for content reuse.
+- **airnavX**: Multi-channel publication platform. AI: Usage analytics dashboard to identify confusing sections.
 
 These tools are integrated into the GAIA AIR software to provide comprehensive solutions for aircraft design, operation, and maintenance. The integration of these tools ensures that the GAIA AIR initiative leverages the latest technologies and best practices in the aerospace industry.

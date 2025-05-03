@@ -97,6 +97,19 @@ To integrate specific Airbus tools like GIPSY, GIDOCA, SAP, ZAMIZ, DACAS, PDMLin
    pip install -r requirements.txt
    ```
 
+## Detailed Tool Setup & AI Plugins
+
+1. **GIPSY**: Set `GIPSY_API_KEY` and enable AI mapping: install `gipsy-ai` plugin
+2. **GIDOCA**: Configure connection and add `gido-ai` for LLM drafting
+3. **SAP**: Provide credentials, then install `sap-rpa` for automated BOM diffs
+4. **ZAMIZ**: Enable analytics endpoint and deploy `zamiz-ml` model
+5. **DACAS**: Connect data feed, add `dacas-classifier` via Docker
+6. **PDMLink/PASS V2**: Set PLM URL and deploy `plm-view-extractor` service
+7. **ARINA/airnavX**: Configure portal URL and add `airnavx-chatbot` module
+8. **Additional Tools** (Arbortext, FrameMaker, IsoDraw, Creo, 3DVIA, Unity):
+   - Install respective CLI tools
+   - Add AI plugins: `arbortext-ai`, `fm-ste-check`, `isodraw-ai`, `creo-ai`, `composer-ai`, `unity-ai`
+
 ## Setting Up Virtual Environments and Managing Dependencies
 
 To manage dependencies for different projects separately and avoid conflicts, use virtual environments. Follow these steps:
