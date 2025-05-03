@@ -4,6 +4,8 @@
 
 The GAIA AIR initiative is part of the GAIA DS (Sustainable Development) division. The project aims to design and document a comprehensive ecosystem of intelligent and sustainable aircraft.
 
+The renewed contract between Capgemini and Airbus consolidates a long-standing collaboration in the production of technical maintenance documentation for commercial aviation. Capgemini, including its division Capgemini Engineering (formerly Altran), supports Airbus's SID (Customer Services – Technical Data Systems) department in the creation and updating of technical maintenance manuals for Airbus's main commercial aircraft families.
+
 ## Objectives
 
 - Optimize the operation through artificial intelligence (autonomous navigation, route planning, predictive maintenance).
@@ -23,6 +25,17 @@ The GAIA AIR initiative is a comprehensive effort to create an ecosystem of inte
 - **AI-Assisted Design**: Modules for designing aircraft with the help of artificial intelligence.
 - **Quantum Simulations**: Tools for simulating various aspects of aircraft operation using quantum computing.
 - **Technical Documentation**: Tools for creating and maintaining technical documentation in compliance with COAFI and AMEDEO standards.
+
+## Potential for AI Integration
+
+There are several potential areas for AI integration in the technical documentation workflow, including:
+
+- **Automated Impact Analysis**: Using AI to analyze design changes and automatically identify affected manual sections.
+- **AI-Assisted Authoring**: Leveraging AI to assist in the creation of technical content, ensuring consistency and adherence to standards.
+- **Semantic Validation**: Implementing AI for deep semantic validation of instructions, ensuring logical coherence and safety compliance.
+- **Predictive Maintenance Insights**: Utilizing AI to analyze operational data and suggest improvements to troubleshooting procedures.
+- **Automated Illustration Generation**: Applying AI to generate and label technical illustrations from 3D models.
+- **Conversational Interfaces**: Developing AI-driven conversational interfaces to assist users in querying and navigating technical manuals.
 
 ## Relevant Repositories and Resources
 
