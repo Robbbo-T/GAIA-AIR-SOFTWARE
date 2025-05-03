@@ -26,8 +26,6 @@ The GAIA AIR initiative is a comprehensive effort to create an ecosystem of inte
 - **Quantum Simulations**: Tools for simulating various aspects of aircraft operation using quantum computing.
 - **Technical Documentation**: Tools for creating and maintaining technical documentation in compliance with COAFI and AMEDEO standards.
 
-
-
 ## Relevant Repositories and Resources
 
 - [GAIA-AIR-SOFTWARE](https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE): The main repository for the GAIA AIR initiative.

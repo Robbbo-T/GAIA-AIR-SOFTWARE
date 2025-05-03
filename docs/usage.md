@@ -120,6 +120,52 @@ python -m gaia_air_software.tech_doc --init
 python -m gaia_air_software.tech_doc --create "doc_type=maintenance, aircraft_model=A320"
 ```
 
+## AI-Assisted Tools for Technical Documentation
+
+### Overview
+
+The AI-Assisted Tools module provides advanced features for creating and maintaining technical documentation with the help of artificial intelligence. These tools aim to streamline the documentation process, improve accuracy, and reduce the time required for updates.
+
+### Usage
+
+1. **Initialize the AI-Assisted Tools Module**
+
+   To initialize the AI-Assisted Tools module, run the following command:
+
+   ```bash
+   python -m gaia_air_software.ai_tools --init
+   ```
+
+2. **Create AI-Assisted Documentation**
+
+   Use the following command to create AI-assisted documentation:
+
+   ```bash
+   python -m gaia_air_software.ai_tools --create <doc_parameters>
+   ```
+
+   Replace `<doc_parameters>` with the specific parameters for your documentation.
+
+3. **Optimize Documentation with AI**
+
+   To optimize the documentation using AI, run the following command:
+
+   ```bash
+   python -m gaia_air_software.ai_tools --optimize <doc_file>
+   ```
+
+   Replace `<doc_file>` with the path to your documentation file.
+
+### Example
+
+Here is an example of creating and optimizing AI-assisted technical documentation:
+
+```bash
+python -m gaia_air_software.ai_tools --init
+python -m gaia_air_software.ai_tools --create "doc_type=maintenance, aircraft_model=A320"
+python -m gaia_air_software.ai_tools --optimize "doc_output.json"
+```
+
 ## Integration into GAIA AIR Framework
 
 ### Overview
@@ -144,16 +190,17 @@ The software components can be integrated into the GAIA AIR framework to create 
    python -m gaia_air_software.framework --integrate <component_name>
    ```
 
-   Replace `<component_name>` with the name of the component you want to integrate (e.g., ai_design, quantum_sim, tech_doc).
+   Replace `<component_name>` with the name of the component you want to integrate (e.g., ai_design, quantum_sim, tech_doc, ai_tools).
 
 ### Example
 
-Here is an example of integrating the AI-Assisted Design and Quantum Simulations components into the GAIA AIR framework:
+Here is an example of integrating the AI-Assisted Design, Quantum Simulations, and AI-Assisted Tools components into the GAIA AIR framework:
 
 ```bash
 python -m gaia_air_software.framework --init
 python -m gaia_air_software.framework --integrate ai_design
 python -m gaia_air_software.framework --integrate quantum_sim
+python -m gaia_air_software.framework --integrate ai_tools
 ```
 
 ## Integrating Specific Airbus Tools
