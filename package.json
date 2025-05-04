@@ -4,8 +4,8 @@
   "description": "GAIA AIR initiative for intelligent and sustainable aircraft",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "correct-build-command"
+    "test": "npm test",
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",

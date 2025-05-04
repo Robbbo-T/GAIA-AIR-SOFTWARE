@@ -531,3 +531,23 @@ Ensures all SMAIE agents meet standardized expertise and ethical criteria.
 Enables reliable delegation of domain-specific cognitive tasks.
 
 Supports secure, explainable, and auditable AI operations at scale.
+
+## Running Tests
+
+To run tests for the GAIA AIR software, use the following command:
+
+```bash
+npm test
+```
+
+This command will execute the test suite and provide feedback on the results.
+
+## Building the Project
+
+To build the GAIA AIR software, use the following command:
+
+```bash
+npm run build
+```
+
+This command will compile the project and generate the necessary build artifacts.
