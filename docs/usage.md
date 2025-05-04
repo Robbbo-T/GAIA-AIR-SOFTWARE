@@ -513,3 +513,21 @@ The GAIA AIR software can be integrated with specific Airbus tools like GIPSY, G
 - **Vuforia/Unity**: For AR. With AI: `unity-ai ar-setup --model model.u3d` to configure AR overlays with voice guidance.
 - **CSDB**: Central data store. With AI: `csdb-ai search "fuel pump"` to semantically find relevant modules.
 - **airnavX**: Publish output. With AI: `airnavx-ai analytics` to view usage heatmap and confusing sections.
+
+## SMAIE Global Directive
+
+### 📎 Policy Hook
+
+```ts
+// Applied by gaia-policy-engine on boot
+import { SMAIE_GLOBAL_DIRECTIVE } from '@gaia/policy-engine/directives/smaie.directive';
+applyGlobalDirective(SMAIE_GLOBAL_DIRECTIVE);
+```
+
+### ✅ Operational Effect
+
+Ensures all SMAIE agents meet standardized expertise and ethical criteria.
+
+Enables reliable delegation of domain-specific cognitive tasks.
+
+Supports secure, explainable, and auditable AI operations at scale.
