@@ -25,3 +25,6 @@ pdmlink-pass-v2==6.0.0
 
 # Dependencies for ARINA
 arina==7.0.0
+
+# Dependencies for SMAIE Global Directive
+smaie-directive==1.0.0
