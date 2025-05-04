@@ -10,7 +10,7 @@ We expect all contributors to adhere to our [Code of Conduct](code_of_conduct.md
 
 ### Reporting Issues
 
-If you encounter any issues or bugs, please report them by opening an issue on our [GitHub repository](https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE/issues). When reporting an issue, please provide as much detail as possible, including steps to reproduce the issue, your environment, and any relevant logs or screenshots.
+If you encounter any issues or bugs, please report them by opening an issue on our [GitHub repository](https://github.com/Robbbo-T/GAIA-AIR/issues). When reporting an issue, please provide as much detail as possible, including steps to reproduce the issue, your environment, and any relevant logs or screenshots.
 
 ### Submitting Pull Requests
 
@@ -18,14 +18,14 @@ We welcome pull requests for bug fixes, new features, and improvements. To submi
 
 1. **Fork the Repository**
 
-   Fork the GAIA-AIR-SOFTWARE repository to your GitHub account.
+   Fork the GAIA-AIR repository to your GitHub account.
 
 2. **Clone the Repository**
 
    Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/<your-username>/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/<your-username>/GAIA-AIR.git
    ```
 
 3. **Create a Branch**
@@ -77,7 +77,7 @@ We welcome contributions to the integration of specific Airbus tools like GIPSY,
    Clone the GAIA AIR software repository to your local machine:
 
    ```bash
-   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/Robbbo-T/GAIA-AIR.git
    ```
 
 3. **Install Dependencies**

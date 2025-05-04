@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "build": "echo \"No build steps required for this project.\"",
-    "test": "echo \"No specific testing instructions provided.\""
+    "build": "echo \"Running build steps...\" && npm install && npm run build",
+    "test": "echo \"Running tests...\" && npm test"
   }
 }

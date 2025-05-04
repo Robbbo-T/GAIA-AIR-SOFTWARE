@@ -28,7 +28,6 @@ The GAIA AIR initiative is a comprehensive effort to create an ecosystem of inte
 
 ## Relevant Repositories and Resources
 
-- [GAIA-AIR-SOFTWARE](https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE): The main repository for the GAIA AIR initiative.
 
 ## SMAIE Global Directive
 
@@ -103,5 +102,3 @@ Ensures all SMAIE agents meet standardized expertise and ethical criteria.
 Enables reliable delegation of domain-specific cognitive tasks.
 
 Supports secure, explainable, and auditable AI operations at scale.
-
----
