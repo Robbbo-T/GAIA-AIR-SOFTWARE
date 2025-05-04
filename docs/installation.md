@@ -318,3 +318,23 @@ To set up the SMAIE Global Directive in the GAIA AIR software, follow these step
    ```
 
    You should see a confirmation message indicating that the directive has been successfully configured.
+
+## Running Tests
+
+To run tests for the GAIA AIR software, use the following command:
+
+```bash
+npm test
+```
+
+This command will execute the test suite and provide feedback on the results.
+
+## Building the Project
+
+To build the GAIA AIR software, use the following command:
+
+```bash
+npm run build
+```
+
+This command will compile the project and generate the necessary build artifacts.

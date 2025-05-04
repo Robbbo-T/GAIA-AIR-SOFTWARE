@@ -64,6 +64,26 @@ We welcome pull requests for bug fixes, new features, and improvements. To submi
 
 We appreciate your patience while we review your pull request. Our team will review the changes and provide feedback. If any changes are requested, please address them promptly. Once your pull request is approved, it will be merged into the main branch.
 
+## Running Tests
+
+To run tests for the GAIA AIR software, use the following command:
+
+```bash
+npm test
+```
+
+This command will execute the test suite and provide feedback on the results.
+
+## Building the Project
+
+To build the GAIA AIR software, use the following command:
+
+```bash
+npm run build
+```
+
+This command will compile the project and generate the necessary build artifacts.
+
 ## Contributing to the Integration of Specific Airbus Tools
 
 We welcome contributions to the integration of specific Airbus tools like GIPSY, GIDOCA, SAP, ZAMIZ, DACAS, PDMLink/PASS V2, and ARINA. To contribute to the integration of these tools, follow these steps:

@@ -102,6 +102,26 @@ GAIA AIR and GAIA PORTFOLIO are open to community contributions. Developers and 
 
 GAIA AIR represents a next-generation approach to sustainable aviation, blending AI, quantum computing, advanced materials, and robust governance to create a resilient, environmentally responsible ecosystem for the future of flight\[2]\[4].
 
+## Running Tests
+
+To run tests for the GAIA AIR software, use the following command:
+
+```bash
+npm test
+```
+
+This command will execute the test suite and provide feedback on the results.
+
+## Building the Project
+
+To build the GAIA AIR software, use the following command:
+
+```bash
+npm run build
+```
+
+This command will compile the project and generate the necessary build artifacts.
+
 Citations:
 \[1] [https://aqicn.org/gaia/](https://aqicn.org/gaia/)
 \[2] [https://github.com/Robbbo-T/GAIA-AIR](https://github.com/Robbbo-T/GAIA-AIR)
