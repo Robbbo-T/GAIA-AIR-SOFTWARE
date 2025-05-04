@@ -36,7 +36,7 @@ Aviation accounts for about 2.5% of global CO₂ emissions and over 4% of total 
 
 | Component                    | Description                                                                                                         |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **AI-Assisted Design**       | Intelligent modules for aircraft design, leveraging machine learning for optimal configurations.                    |
+| **AI-Assisted Integrated Design Ecosystem (AI-AIDED)**       | Intelligent modules for aircraft design, leveraging machine learning for optimal configurations.                    |
 | **Quantum Simulations**      | Quantum computing tools for simulating and optimizing aircraft operations and materials.                            |
 | **Technical Documentation**  | Automated tools for producing and updating maintenance manuals, ensuring compliance with standards (COAFI, AMEDEO). |
 | **Sustainable Propulsion**   | Real-time monitoring and optimization of hybrid and alternative fuel engines.                                       |
