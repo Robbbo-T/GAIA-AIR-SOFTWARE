@@ -220,7 +220,7 @@ The GAIA AIR software can be integrated with specific Airbus tools like GIPSY, G
    Clone the GAIA AIR software repository to your local machine:
 
    ```bash
-   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/Robbbo-T/GAIA-AIR.git
    ```
 
 3. **Install Dependencies**
@@ -262,7 +262,7 @@ The GAIA AIR software can be integrated with specific Airbus tools like GIPSY, G
    Clone the GAIA AIR software repository to your local machine:
 
    ```bash
-   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/Robbbo-T/GAIA-AIR.git
    ```
 
 3. **Install Dependencies**
@@ -304,7 +304,7 @@ The GAIA AIR software can be integrated with specific Airbus tools like GIPSY, G
    Clone the GAIA AIR software repository to your local machine:
 
    ```bash
-   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/Robbbo-T/GAIA-AIR.git
    ```
 
 3. **Install Dependencies**
@@ -346,7 +346,7 @@ The GAIA AIR software can be integrated with specific Airbus tools like GIPSY, G
    Clone the GAIA AIR software repository to your local machine:
 
    ```bash
-   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/Robbbo-T/GAIA-AIR.git
    ```
 
 3. **Install Dependencies**
@@ -388,7 +388,7 @@ The GAIA AIR software can be integrated with specific Airbus tools like GIPSY, G
    Clone the GAIA AIR software repository to your local machine:
 
    ```bash
-   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/Robbbo-T/GAIA-AIR.git
    ```
 
 3. **Install Dependencies**
@@ -430,7 +430,7 @@ The GAIA AIR software can be integrated with specific Airbus tools like GIPSY, G
    Clone the GAIA AIR software repository to your local machine:
 
    ```bash
-   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/Robbbo-T/GAIA-AIR.git
    ```
 
 3. **Install Dependencies**
@@ -472,7 +472,7 @@ The GAIA AIR software can be integrated with specific Airbus tools like GIPSY, G
    Clone the GAIA AIR software repository to your local machine:
 
    ```bash
-   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/Robbbo-T/GAIA-AIR.git
    ```
 
 3. **Install Dependencies**

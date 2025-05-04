@@ -28,5 +28,4 @@ The GAIA AIR initiative is a comprehensive effort to create an ecosystem of inte
 
 ## Relevant Repositories and Resources
 
-- [GAIA-AIR-SOFTWARE](https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE): The main repository for the GAIA AIR initiative.
-
+- [GAIA-AIR](https://github.com/Robbbo-T/GAIA-AIR.git): The main repository for the GAIA AIR initiative.

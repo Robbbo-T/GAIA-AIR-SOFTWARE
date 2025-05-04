@@ -15,10 +15,10 @@ Follow these steps to set up the software components:
 
 1. **Clone the Repository**
 
-   Clone the GAIA-AIR-SOFTWARE repository to your local machine using the following command:
+   Clone the GAIA-AIR repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE.git
+   git clone https://github.com/Robbbo-T/GAIA-AIR.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -26,7 +26,7 @@ Follow these steps to set up the software components:
    Change to the project directory:
 
    ```bash
-   cd GAIA-AIR-SOFTWARE
+   cd GAIA-AIR
    ```
 
 3. **Create a Virtual Environment (Optional)**
@@ -191,8 +191,8 @@ Below is a comprehensive, Windows‑friendly guide that transforms your reposito
 Open Command Prompt or Windows Terminal and execute:
 
 ```batch
-git clone https://your.repo.url/your-repository.git
-cd your-repository
+git clone https://github.com/Robbbo-T/GAIA-AIR.git
+cd GAIA-AIR
 ```
 
 This brings the repository locally so you can work with its integration code and documentation.
