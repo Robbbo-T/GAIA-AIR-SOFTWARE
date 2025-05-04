@@ -28,7 +28,7 @@ The GAIA AIR initiative is a comprehensive effort to create an ecosystem of inte
 
 ## Relevant Repositories and Resources
 
-**ALL Instructions given in uploaded files across Robbbo-t several gitHub repositories and organizations
+**ALL Instructions given in uploaded files across Robbbo-t several gitHub repositories and organizations are insights for this project**
 
 
 ## SMAIE Global Directive
