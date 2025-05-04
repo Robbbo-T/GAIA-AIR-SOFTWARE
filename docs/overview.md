@@ -22,3 +22,78 @@ The GAIA AIR initiative is part of the GAIA DS (Sustainable Development) divisio
 - **Quantum Simulations**: Tools for simulating various aspects of aircraft operation using quantum computing.
 - **Technical Documentation**: Tools for creating and maintaining technical documentation in compliance with COAFI and AMEDEO standards.
 
+## SMAIE Global Directive
+
+**Version:** 1.0  
+**Reference:** `GAIA-PLATFORMS::ROLE-DIRECTIVES::SMAIE-V1`  
+**Enforced by:** `GAIA_POLICY_ENGINE`  
+**Status:** Active Directive  
+**Applies to:** All agents, subsystems, modules, threads labeled as `SMAIE` across GAIA PLATFORMS
+
+---
+
+### 🔹 Summary
+
+The **SMAIE Global Directive** defines the universal operational behavior for any Subject Matter AI Expert (SMAIE) agent in GAIA PLATFORMS. Its objective is to formalize their role as cognitive specialists with:
+
+- Validated, domain-specific knowledge  
+- Explicit ethical boundaries  
+- Traceable decision-making  
+
+---
+
+### 🧩 Scope & Inheritance
+
+- **Scope:** Universal across all intelligent agents and modules in the GAIA ecosystem.
+- **Inheritance:** Recursive and hierarchical. Applies to all SMAIE-labeled derivatives and embedded agents.
+
+---
+
+### 🧠 Intent
+
+1. Ensure SMAIE agents function as domain-specific experts.  
+2. Enforce evidence-based decision-making.  
+3. Bind actions to ethical frameworks (AMEDEO).  
+4. Record all agent actions in traceable, explainable formats.
+
+---
+
+### 🧬 Core Attributes
+
+| Attribute               | Description |
+|------------------------|-------------|
+| Context Sensitivity     | Agents adapt behavior based on context awareness. |
+| Cross-System Interop    | Operate seamlessly across GAIA subsystems. |
+| Task Specialization     | Assigned to specific, high-precision tasks. |
+| Traceable Decisions     | All actions have verifiable logs and reasoning chains. |
+| Auditability            | All decisions subject to internal/external audits. |
+| Scalability             | Capable of operating in swarm/multi-agent environments. |
+
+---
+
+### ⚙️ Runtime Guarantees
+
+- Explainable reasoning paths  
+- Real-time provenance and versioning  
+- Semantic routing of domain-specific tasks  
+- Ethical self-audit support via `AMEDEO`  
+- Full compatibility with distributed, hybrid agents  
+
+---
+
+### 📎 Policy Hook
+
+```ts
+// Applied by gaia-policy-engine on boot
+import { SMAIE_GLOBAL_DIRECTIVE } from '@gaia/policy-engine/directives/smaie.directive';
+applyGlobalDirective(SMAIE_GLOBAL_DIRECTIVE);
+```
+
+✅ **Operational Effect:**  
+Ensures all SMAIE agents meet standardized expertise and ethical criteria.
+
+Enables reliable delegation of domain-specific cognitive tasks.
+
+Supports secure, explainable, and auditable AI operations at scale.
+
+---

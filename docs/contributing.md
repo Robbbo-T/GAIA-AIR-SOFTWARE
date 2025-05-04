@@ -124,6 +124,66 @@ When contributing, refer to the detailed descriptions:
 - Share RPA scripts for SAP BOM diffs
 - Validate vision AI outputs for IsoDraw & Creo Illustrate
 
+## Contributing to the SMAIE Global Directive
+
+We welcome contributions to the SMAIE Global Directive. To contribute, follow these steps:
+
+1. **Reporting Issues**
+
+   If you encounter any issues or have suggestions for improvements related to the SMAIE Global Directive, please report them by opening an issue on our [GitHub repository](https://github.com/Robbbo-T/GAIA-AIR-SOFTWARE/issues). When reporting an issue, provide as much detail as possible, including steps to reproduce the issue, your environment, and any relevant logs or screenshots.
+
+2. **Submitting Pull Requests**
+
+   We welcome pull requests for bug fixes, new features, and improvements related to the SMAIE Global Directive. To submit a pull request, follow these steps:
+
+   - **Fork the Repository**
+
+     Fork the GAIA-AIR-SOFTWARE repository to your GitHub account.
+
+   - **Clone the Repository**
+
+     Clone the forked repository to your local machine:
+
+     ```bash
+     git clone https://github.com/<your-username>/GAIA-AIR-SOFTWARE.git
+     ```
+
+   - **Create a Branch**
+
+     Create a new branch for your changes:
+
+     ```bash
+     git checkout -b smaie-directive-changes
+     ```
+
+   - **Make Changes**
+
+     Make your changes to the codebase. Ensure that your code follows the project's coding standards and includes appropriate tests.
+
+   - **Commit Changes**
+
+     Commit your changes with a descriptive commit message:
+
+     ```bash
+     git commit -m "Update SMAIE Global Directive"
+     ```
+
+   - **Push Changes**
+
+     Push your changes to your forked repository:
+
+     ```bash
+     git push origin smaie-directive-changes
+     ```
+
+   - **Open a Pull Request**
+
+     Open a pull request on the original repository. Provide a clear and descriptive title and description for your pull request, explaining the changes you have made and why they are necessary.
+
+3. **Reviewing Pull Requests**
+
+   We appreciate your patience while we review your pull request. Our team will review the changes and provide feedback. If any changes are requested, please address them promptly. Once your pull request is approved, it will be merged into the main branch.
+
 ## Additional Notes
 
 - Please ensure that your code is well-documented and includes appropriate tests.

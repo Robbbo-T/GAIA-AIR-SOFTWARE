@@ -284,3 +284,37 @@ npm test gipsy-ai-mapping
 ### 6. Next Steps
 
 Consider scheduling these steps via the Windows Task Scheduler or integrating them into CI pipelines (e.g., GitHub Actions) for automated testing and deployment.
+
+## Installing Dependencies for the SMAIE Global Directive
+
+To set up the SMAIE Global Directive in the GAIA AIR software, follow these steps:
+
+1. **Review Documentation**
+
+   Review the official documentation for the SMAIE Global Directive to understand its specific requirements and dependencies.
+
+2. **Update `requirements.txt`**
+
+   Add any new dependencies required by the SMAIE Global Directive to the `requirements.txt` file in the GAIA AIR software repository.
+
+3. **Install Dependencies**
+
+   Install the new dependencies using the following command:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Configure the Directive**
+
+   Configure the SMAIE Global Directive by adding the necessary configuration files and settings to the GAIA AIR software.
+
+5. **Verify Installation**
+
+   Verify that the SMAIE Global Directive has been successfully set up by running the following command:
+
+   ```bash
+   python -m gaia_air_software.smaie --verify
+   ```
+
+   You should see a confirmation message indicating that the directive has been successfully configured.
